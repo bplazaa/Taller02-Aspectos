@@ -45,5 +45,11 @@ aspect Logger{
     	System.out.println("**** Transacción exitosa en la fecha: "+fecha +"****\n");
 
     }
+    
+    //Ejemplo
+    pointcut success_add() : call(* create*(..) );
+    after() : success_add() {
+    	System.out.println("**** User created ****");
+    }
 	
 }

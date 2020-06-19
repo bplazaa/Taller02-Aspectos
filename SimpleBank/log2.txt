@@ -1,0 +1,4 @@
+Transacción: Deposito - Fecha: Fri Jun 19 00:48:01 COT 2020
+Transacción: Deposito - Fecha: Fri Jun 19 00:49:10 COT 2020
+Transacción: Deposito - Fecha: Fri Jun 19 00:50:02 COT 2020
+Transacción: Retiro - Fecha: Fri Jun 19 00:50:24 COT 2020
